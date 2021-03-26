@@ -5,6 +5,9 @@ HELP.md
 dist
 doc
 
+
+.npmrc
+
 # Logs
 logs
 *.log
